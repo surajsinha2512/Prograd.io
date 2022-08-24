@@ -1,0 +1,23 @@
+{
+  "name": "prograd.io",
+  "version": "1.0.0",
+  "description": "This is the take-home interview task for engineering job applications at ProGrad.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajsinha2512/Prograd.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajsinha2512/Prograd.io/issues"
+  },
+  "homepage": "https://github.com/surajsinha2512/Prograd.io#readme",
+  "dependencies": {
+    "csv": "^6.2.0",
+    "fast-csv": "^4.3.6"
+  }
+}
